@@ -15,6 +15,11 @@ Notice that when the data is loaded, it fills in the empty box as shown in the i
 
 ## Sorting
 
+Click on the headers to sort the data depending on the header clicked (ascending order). Clicking on the header again after sorting will bring it to descending order. Use this to find unrealistic data or outliers that need to be removed or changed.
+<br>
+
+If the “Null Category #3” header is selected, any blank spaces will appear at the top. This makes it easier to locate data that either needs the row deleted or the missing value filled in. A similar function is placed on the “Null Category #5” header where, if sorted, all empty boxes are placed toward the bottom for easy data viewing.  
+
 ## Deleting Rows
 
 ## Filtering
