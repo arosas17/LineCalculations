@@ -39,4 +39,18 @@ To use, simply enter the desired year in the four-digit format and the desired m
 
 ## Changing Table Values
 
+To change a value on the table: 
+1.	Select the desired line number
+2.	Select the desired column name
+3.	 Enter the index number of the row of the changing value
+4.	Enter the new value
+
+This can be done at any point.
+
+**WARNING:** Changing the value on the table is permanent and can only be returned by changing the value back or reuploading the file.
+
 ## Calculating
+
+Press this button when the data tables are altered as needed.
+
+This will populate the boxes of the “Monthly LLD Overview” table with the average overfill percentage of each line and give a weighted average at the end. It will do the calculations based off of the “Null Category #3” and “Null Category #4” columns of each table (this performed like this due to a request). If unusual results occur, check these columns and see if the numbers are as expected.  Clicking the button also copies the “Monthly LLD Overview” table with the results.
