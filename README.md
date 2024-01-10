@@ -22,6 +22,10 @@ If the “Null Category #3” header is selected, any blank spaces will appear a
 
 ## Deleting Rows
 
+If a row needs to be deleted, click on the row and it will highlight red, as shown below. Choose multiple rows from across the different tables and click the “Delete Rows” button on the left. The row will then be deleted.
+
+**WARNING:** This data is not permanently deleted. It will return if the “Filter” button is used and the date matches the selected criteria of month and year.
+
 ## Filtering
 
 ## Changing Table Values
