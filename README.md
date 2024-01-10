@@ -11,8 +11,6 @@ Notice that when the data is loaded, it fills in the empty box as shown in the i
 * This program is designed for a specific layout on excel which will work if the worksheet’s layout is not altered to the eamples given. The data itself may be altered.
 * Reselecting the same file will not update the table; however, selecting a different file will update the table.
 
-
-
 ## Sorting
 
 Click on the headers to sort the data depending on the header clicked (ascending order). Clicking on the header again after sorting will bring it to descending order. Use this to find unrealistic data or outliers that need to be removed or changed.
@@ -27,6 +25,17 @@ If a row needs to be deleted, click on the row and it will highlight red, as sho
 **WARNING:** This data is not permanently deleted. It will return if the “Filter” button is used and the date matches the selected criteria of month and year.
 
 ## Filtering
+
+It is strongly suggested that the “Date” column is checked first for any obvious mistypes first or if the filter needs to be used. For instance, a date was placed in as 2003 instead of 2023. This can be found with the sort function so that the value may be changed or row deleted). Other than that, the filtering should be performed as early as possible to prevent previously deleted rows from reappearing.
+
+To use, simply enter the desired year in the four-digit format and the desired month as a number then press the “Filter” button. All rows that were deleted previously will return if it meets the filter criteria (this includes any rows deleted by filtering or deleted by the “Delete Rows” button), but any change of values will be kept. <br>
+* If only one field is desired, fill in the desired field and leave the other one blank. 
+* Leave both year and month inputs blank to return all data.
+
+**IMPORTANT:** The filtering will only work if the tables are loaded up in order. Such as filtering the first table in the 1st loading spot will work, but loading the second table or third without loading the table in 1st spot will not filter.
+
+**WARNING:** All rows that were deleted previously will return if they meet the filter criteria, but any change of values will be kept.
+
 
 ## Changing Table Values
 
