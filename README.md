@@ -26,7 +26,7 @@ If a row needs to be deleted, click on the row and it will highlight red, as sho
 
 ## Filtering
 
-It is strongly suggested that the “Date” column is checked first for any obvious mistypes first or if the filter needs to be used. For instance, a date was placed in as 2003 instead of 2023. This can be found with the sort function so that the value may be changed or row deleted). Other than that, the filtering should be performed as early as possible to prevent previously deleted rows from reappearing.
+It is strongly suggested that the “Date” column is checked first for any obvious mistypes; for instance, a date was placed in as 2003 instead of 2023. This can be found with the sort function so that the value may be changed or row deleted). Other than that, the filtering should be performed as early as possible to prevent previously deleted rows from reappearing.
 
 To use, simply enter the desired year in the four-digit format and the desired month as a number then press the “Filter” button. All rows that were deleted previously will return if it meets the filter criteria (this includes any rows deleted by filtering or deleted by the “Delete Rows” button), but any change of values will be kept. <br>
 
