@@ -41,13 +41,7 @@ To use, simply enter the desired year in the four-digit format and the desired m
 
 ## Changing Table Values
 
-To change a value on the table: 
-1.	Select the desired line number
-2.	Select the desired column name
-3.	 Enter the index number of the row of the changing value
-4.	Enter the new value
-
-This can be done at any point.
+To change a value on the table, first the desired line number and column name need to be selected from the dropdown menus. The index number of the desired row also needs to be entered in the "Enter Index" box and the new value needs to be placed in the "New Value" box. Lastly, all that needs to be done is click the "Change Value" button to complete the change. This process can be done at any point prior to clicking the "Calculate" button.
 
 **WARNING:** Changing the value on the table is permanent and can only be returned by changing the value back or reuploading the file.
 
